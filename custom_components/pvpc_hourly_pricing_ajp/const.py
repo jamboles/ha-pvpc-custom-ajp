@@ -3,7 +3,7 @@
 from aiopvpc import TARIFFS
 import voluptuous as vol
 
-DOMAIN = "pvpc_hourly_pricing"
+DOMAIN = "pvpc_hourly_pricing_ajp"
 
 ATTR_POWER = "power"
 ATTR_POWER_P3 = "power_p3"
