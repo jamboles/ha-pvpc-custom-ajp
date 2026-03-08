@@ -1,0 +1,7 @@
+{
+  "name": "Spain electricity hourly pricing (PVPC)",
+  "content_in_root": false,
+  "render_readme": true,
+  "country": "ES",
+  "homeassistant": "2024.2.0"
+}
